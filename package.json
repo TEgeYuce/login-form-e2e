@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {
+    "cypress": "^15.4.0"
   }
 }
